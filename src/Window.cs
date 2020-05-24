@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using Size = System.Drawing.Size;
 
-namespace SDL
+namespace MirSDL
 {
     [Flags]
     public enum WindowFlags : uint

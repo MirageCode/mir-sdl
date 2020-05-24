@@ -2,7 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using Point = System.Drawing.Point;
 
-namespace SDL
+namespace MirSDL
 {
     [Flags]
     public enum MouseButton : byte

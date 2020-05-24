@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using Rectangle = System.Drawing.Rectangle;
 using Point = System.Drawing.Point;
 
-namespace SDL
+namespace MirSDL
 {
     [Flags]
     public enum SubSystem : uint

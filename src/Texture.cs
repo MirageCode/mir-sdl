@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using Color = System.Drawing.Color;
 using Size = System.Drawing.Size;
 
-namespace SDL
+namespace MirSDL
 {
     public enum TextureAccess
     {

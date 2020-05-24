@@ -5,7 +5,7 @@ using Color = System.Drawing.Color;
 using Size = System.Drawing.Size;
 using Rectangle = System.Drawing.Rectangle;
 
-namespace SDL
+namespace MirSDL
 {
     public class Font : Resource<TTFException>
     {

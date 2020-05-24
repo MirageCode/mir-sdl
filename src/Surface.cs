@@ -2,7 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using Rectangle = System.Drawing.Rectangle;
 
-namespace SDL
+namespace MirSDL
 {
     public class Surface : Resource<SDLException>
     {

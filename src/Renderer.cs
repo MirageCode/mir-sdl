@@ -6,7 +6,7 @@ using Rectangle = System.Drawing.Rectangle;
 using Size = System.Drawing.Size;
 using SizeF = System.Drawing.SizeF;
 
-namespace SDL
+namespace MirSDL
 {
     [Flags]
     public enum RendererFlags : uint

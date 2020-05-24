@@ -1,6 +1,6 @@
 using System;
 
-namespace SDL
+namespace MirSDL
 {
     [Flags]
     public enum BlendMode

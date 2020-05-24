@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace SDL
+namespace MirSDL
 {
     public abstract class Resource<ExceptionType> : IDisposable
     where ExceptionType : Exception, new()

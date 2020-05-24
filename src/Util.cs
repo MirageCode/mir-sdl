@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using Color = System.Drawing.Color;
 
-namespace SDL
+namespace MirSDL
 {
     [StructLayout(LayoutKind.Sequential)]
     internal struct InternalColor

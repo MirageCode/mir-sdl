@@ -6,7 +6,7 @@ using Size = System.Drawing.Size;
 using Rectangle = System.Drawing.Rectangle;
 using Point = System.Drawing.Point;
 
-namespace SDL
+namespace MirSDL
 {
     public class TextBox : IDisposable
     {

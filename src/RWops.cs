@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace SDL
+namespace MirSDL
 {
     public class RWops : Resource<SDLException>
     {

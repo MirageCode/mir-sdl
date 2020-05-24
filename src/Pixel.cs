@@ -1,6 +1,6 @@
 using System;
 
-namespace SDL
+namespace MirSDL
 {
     public enum PixelType
     {
